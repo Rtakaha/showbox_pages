@@ -5,7 +5,7 @@ module.exports = {
     disableHostCheck: true,
   },
   publicPath: "./",
-  assetsDir: "",
+  assetsDir: "./",
   outputDir: "docs",
   "transpileDependencies": [
     "vuetify"
