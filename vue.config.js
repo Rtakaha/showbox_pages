@@ -4,8 +4,8 @@ module.exports = {
     host: '0.0.0.0',
     disableHostCheck: true,
   },
-  publicPath: "./",
-  assetsDir: "./",
+  publicPath: "/showbox_pages/",
+  assetsDir: "",
   outputDir: "docs",
   "transpileDependencies": [
     "vuetify"
